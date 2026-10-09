@@ -10,6 +10,3 @@ Desktop.ini
 .env.*
 !.env.example
 
-# Local CAD project and embedded libraries
-/hardware/easyeda-pro/
-/hardware/source/
