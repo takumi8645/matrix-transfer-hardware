@@ -1,0 +1,15 @@
+# 内部资料与整理过程
+/tmp/
+/private/
+/output/
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+!.env.example
+
+# Local CAD project and embedded libraries
+/hardware/easyeda-pro/
+/hardware/source/
